@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luis Eduardo
 - 👀 I’m interested in Programming, Study, Data Sciency and Web Design. 
-- 🌱 I’m currently learning Python, C, C++.
+- 🌱 I’m currently learning HTML, CSS, javascript, Python, C, C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
